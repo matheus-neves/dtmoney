@@ -1,46 +1,61 @@
-# Getting Started with Create React App
+<img alt="Ignite" src=".github/header.png" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+  First application with ReactJS: DT Money 
+</h3>
 
-## Available Scripts
+<p align="center">
+  <a href="https://github.com/matheus-neves">
+    <img alt="Author Matheus Neves" src="https://img.shields.io/badge/author-Matheus%20Neves-%2306b656?color=06b656&style=for-the-badge">
+  </a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheus-neves/dtmoney?color=06b656&style=for-the-badge">
+  <a href="https://github.com/matheus-neves/dtmoney/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/matheus-neves/dtmoney?color=06b656&style=for-the-badge">
+  </a>
+  <a href="https://github.com/matheus-neves/dtmoney/blob/main/LICENSE">
+    <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-%2304D361?color=06b656&style=for-the-badge">
+  </a>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="#rocket-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-### `yarn start`
+<br/>
+<p align="center"><img style="border: 1px solid #eee;" src=".github/demo.gif"/></p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## :rocket: About
 
-### `yarn test`
+In this module, a complete web front-end application, **DT Money**, was built, using important ecosystem concepts and tools.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `yarn build`
+- [ReactJS](https://reactjs.com/)
+- [React Modal](https://github.com/reactjs/react-modal)
+- [Typescript](https://www.typescriptlang.org/)
+- [MirajeJS](https://miragejs.com/)
+- [Styled Components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository: `git@github.com:matheus-neves/dtmoney.git`
+2. Access the directory: `cd dtmoney`
+3. Install the dependencies: `yarn`
+4. Run the app: `yarn start`
 
-### `yarn eject`
+## :memo: License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This challenge is under license from MIT. See the archive [LICENSE](https://github.com/matheus-neves/dtmoney/blob/main/LICENSE) for more details.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p>Challenge completed :heavy_check_mark:</p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Made with 💜 &nbsp; by Matheus Neves [See my linkedin!](https://www.linkedin.com/in/matheus-neves-front-end/) :wave:
